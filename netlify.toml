@@ -1,0 +1,4 @@
+[build]
+  base = "expense-manager"
+	command = "CI= npm run build"
+	publish = "build"
